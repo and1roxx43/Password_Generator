@@ -15,11 +15,20 @@ document.querySelector('.btn').addEventListener('click', function(){
 
    // Prompt user to enter a length value
    let userInput = prompt("Enter a length for your password"); 
+
   // If user does not enter a value, or the value is less than 8 and higher than 128, terminate the application.
-   if(!userInput || userInput < 8 || userInput >128){
-     alert("A value should be entered!. Please enter a length between 8 and 128 characters.");
+  if(isNaN(userInput)){
+    alert("Please enter a number to continue!");
+    return;
+  }
+  if(userInput === ''){
+    alert("A value should be entered!");
+    return;
+  }
+  if(!userInput || userInput < 8 || userInput >128){
+    alert("Please enter a length between 8 and 128 characters.");
      return;
-   }
+  }
 
    // Prompt user to confirm if lowercase, uppercase, number, and symbol should be included.
    let includeLower = confirm("Would you like to include lowercase?");
