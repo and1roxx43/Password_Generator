@@ -17,5 +17,12 @@ This project can be viewed in 1366px, 1025px, 815px, 375px
 ___
 ___
 
+- Links URL
+https://github.com/and1roxx43/Password_Generator
+
+https://and1roxx43.github.io/Password_Generator/
+
+___
+
 - Some of the ideas come from this *Web reference:* https://youtu.be/iKo9pDKKHnc
 
