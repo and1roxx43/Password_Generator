@@ -10,7 +10,7 @@ Part of this project is to create a Password Generator with the following criter
 
 ___
 
-This project caan be viewed in 1366px, 1025px, 815px, 375px
+This project can be viewed in 1366px, 1025px, 815px, 375px
 
 
 
