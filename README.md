@@ -24,5 +24,4 @@ https://and1roxx43.github.io/Password_Generator/
 
 ___
 
-- Some of the ideas come from this *Web reference:* https://youtu.be/iKo9pDKKHnc
 
