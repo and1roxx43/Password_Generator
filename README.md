@@ -18,7 +18,7 @@ ___
 ___
 ## Extra added:
 - No alphabets are accepted when prompted to enter a length for the password.
-
+____
 This project can be viewed in 1366px, 1025px, 815px, 375px
 
 ![image](https://user-images.githubusercontent.com/14179472/110422420-739cdb80-80f3-11eb-97d3-70aa47750633.png)
