@@ -27,14 +27,14 @@ header {
 
 /* set the background color for both header nd footer */
 header, footer {
-  background-color: #670067;
+  background-color: #191baf;
   color: #fff;
 }
 
 /* ------Main section ------- */
 /* Set background color, flex and margins */
 main {
-  background-color: rgb(223, 209, 235);
+  background-color: #050707;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,30 +47,31 @@ main {
 /* Set the border radius, background color, padding, flex width and height tosection around the input area */
 main .dataInput {
   border-radius: 20px;
-  background-color: rgb(71, 51, 71);
+  background-color: rgb(18, 41, 48);
   box-shadow: 2px 2px 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 30%;
-  height: 50vh;
+  width: 50%;
+  height: 40vh;
   padding: 20px;
 }
 
 /* Set border, border radius, width font size and no resize to text input area  */
 #textInput {
   border: 3px dashed #999;
-  border-radius: 20px;
+  border-radius: 10px;
   width: 100%;
   resize: none;
   font-size: 30px;
+  padding: 20px;
 }
 
 /* set border style, color, font size, and sizing */
 input[type="submit"] {
-  border: 3px solid rgb(206, 86, 86);
-  background-color: brown;
+  border: 3px solid rgb(47, 84, 155);
+  background-color: #1a0d0d;
   color: wheat;
   outline: none;
   border-radius: 10px;
