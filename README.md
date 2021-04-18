@@ -21,7 +21,7 @@ ___
 ____
 This project can be viewed in 1366px, 1025px, 815px, 375px
 
-![image](https://user-images.githubusercontent.com/14179472/110422420-739cdb80-80f3-11eb-97d3-70aa47750633.png)
+![image](https://user-images.githubusercontent.com/14179472/115136532-a677af00-a063-11eb-8
 
 ___
 ___
