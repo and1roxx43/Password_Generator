@@ -27,14 +27,14 @@ header {
 
 /* set the background color for both header nd footer */
 header, footer {
-  background-color: #191baf;
+  background-color: #478ea3;
   color: #fff;
 }
 
 /* ------Main section ------- */
 /* Set background color, flex and margins */
 main {
-  background-color: #050707;
+  background-color: #e9df58;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,7 +47,7 @@ main {
 /* Set the border radius, background color, padding, flex width and height tosection around the input area */
 main .dataInput {
   border-radius: 20px;
-  background-color: rgb(18, 41, 48);
+  background-color: #478ea3;
   box-shadow: 2px 2px 20px;
   display: flex;
   flex-direction: column;
